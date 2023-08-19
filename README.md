@@ -13,7 +13,7 @@ I come from a non-technical background, precisely `Public Administration` and  I
 > I'm on the journey of self improvement and continue to test the waters by taking on several personal projects using SQL flavours like `PostgreSQL`, `MySQL`, `MSSQL`, and programming languages like `Python` as you'd see in my repos. 
 
 # Skills and Experience
- - Microsoft Excel, Google Spreadsheets
+ - Microsoft Excel, Google Sheets
  - MySQL, MSSQL, PostgreSQL
  - PowerBI
  - Python
