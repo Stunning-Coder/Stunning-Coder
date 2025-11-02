@@ -58,7 +58,7 @@
   </a>
 </p>
 <p align="center">
-  <i>I also build web applications like my <a href="https://github.com/Stunning-Coder/essiet-writes">personal portfolio</a> and this <a href="https://github.com/Stunning-Coder/zurri-glam-at-home">client appointment site</a>.</i>
+  <i>I also build web applications like my <a href="https://essiet-writes.vercel.app">personal portfolio</a> and this <a href="https://zurri-glam-at-home.vercel.app">client appointment site</a>.</i>
 </p>
 
 ---
